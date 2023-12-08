@@ -1,6 +1,6 @@
 #Prerequisites:
 
-    Ensure you have Node.js and npm installed on your machine.
+Ensure you have Node.js and npm installed on your machine.
 
 
 
@@ -13,8 +13,8 @@ Install Dependencies: ### `npm install`
 
 Start the Development Server: ### `npm start`
 
-    Open in Browser:
-    Open your web browser and go to http://localhost:3000 to see the app.
+Open in Browser:
+Open your web browser and go to http://localhost:3000 to see the app.
 
 
 
