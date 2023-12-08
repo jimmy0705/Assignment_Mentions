@@ -50,3 +50,5 @@ Push Changes.
 2. Currently, the styling is done right in the code. With more time, I would have made it more organized and easier to manage in the future.
 
 3. I believe the Mention component could be more organized and reusable. Given the chance, I would have refined its structure to make it versatile for different uses.
+
+4. I would have coded the project to match the Figma design down to the finest detail.
