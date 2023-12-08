@@ -13,8 +13,6 @@ Install Dependencies: ### `npm install`
 
 Start the Development Server: ### `npm start`
 
-    This will kick off the development server. Check the console for messages confirming that the app is running locally.
-
     Open in Browser:
     Open your web browser and go to http://localhost:3000 to see the app.
 
@@ -40,5 +38,4 @@ Push Changes.
 
  Go to your fork on GitHub.
  Click "New Pull Request."
- Provide a clear title and description.
  Submit the pull request.
